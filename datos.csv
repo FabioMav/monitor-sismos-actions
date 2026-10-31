@@ -338,4 +338,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-10-24T17:14:30.377Z,-21.3025,-68.9699,123.988,4.2,mb,39,55,0.548,0.89,us,us6000u4na,2026-10-24T17:44:28.040Z,"74 km W of Ollagüe, Chile",earthquake,5.18,3.751,0.106,25,reviewed,us,us
 2026-10-24T16:54:15.523Z,-14.2056,165.9365,10,4.8,mww,65,37,6.504,0.55,us,us6000u4n8,2026-10-24T17:17:37.040Z,"153 km NW of Port-Olry, Vanuatu",earthquake,10.52,1.825,0.098,10,reviewed,us,us
 2026-10-24T15:54:24.778Z,69.02,-144.492,1.7,2.7,ml,28,137,0.7,0.9,ak,aka2026vbyigb,2026-10-24T15:58:02.656Z,"108 km NNE of Arctic Village, Alaska",earthquake,5.7,4.0969,0.3,12,automatic,ak,ak
-2026-10-24T15:45:47.533Z,-13.9412,165.1696,10,4.7,mb,37,113,8.627,0.9,us,us6000u4my,2026-10-24T16:46:51.040Z,"238 km WNW of Port-Olry, Vanuatu",earthquake,13.5,1.91,0.1,33,reviewed,us,us
+2026-10-24T15:45:47.533Z,-13.9412,165.1696,10,8.7,mb,37,113,8.627,0.9,us,us6000u4my,2026-10-24T16:46:51.040Z,"238 km WNW of Port-Olry, Vanuatu",earthquake,13.5,1.91,0.1,33,reviewed,us,us

@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2026-10-31T15:32:36.078Z,60.232,-152.214,79.4,2.5,ml,68,58,0.3,0.6,ak,aka2026vovsfh,2026-10-31T15:34:22.568Z,"36 km WNW of Ninilchik, Alaska",earthquake,2.7,1.9188,0.1,29,automatic,ak,ak
+2026-10-31T15:32:36.078Z,60.232,-152.214,79.4,8.5,ml,68,58,0.3,0.6,ak,aka2026vovsfh,2026-10-31T15:34:22.568Z,"36 km WNW of Ninilchik, Alaska",earthquake,2.7,1.9188,0.1,29,automatic,ak,ak
 2026-10-31T13:17:29.030Z,18.9686,-64.2266,20,3.77,md,23,299,0.5095,0.29,pr,pr2026304000,2026-10-31T15:16:28.040Z,"92 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.03,22.65,0.16,21,reviewed,pr,pr
 2026-10-31T13:10:08.987Z,-6.4305,128.9289,254.829,4.3,mb,27,139,6.732,0.83,us,us7000tuiw,2026-10-31T14:37:11.040Z,"Banda Sea",earthquake,12.76,9.889,0.116,24,reviewed,us,us
 2026-10-31T11:31:12.352Z,-13.9069,165.6759,10,5,mww,46,111,6.739,0.93,us,us7000tuif,2026-10-31T11:47:21.040Z,"196 km NW of Port-Olry, Vanuatu",earthquake,10.34,1.884,0.078,16,reviewed,us,us
